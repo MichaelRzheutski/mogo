@@ -2,6 +2,6 @@
 
 Mobile First. Адаптивная вёрстка с использованием Flexbox. Поддержка Internet Explorer отсутствует.
 
-Используемые технологии: **HTML5**, **CSS3**, **FlexBox**, **jQuery**, **JavaScript**, **Git**.
+Используемые технологии: **HTML5**, **CSS3**, **FlexBox**, **jQuery**, **JavaScript**, **БЭМ** **GIT**.
 
-![MoGo - Entire-Page](MoGo.jpg)
+![MoGo - Entire-Page](mogo.jpg)
